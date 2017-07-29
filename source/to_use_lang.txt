@@ -1,0 +1,13 @@
+ger
+dut
+eng
+spa
+fre
+ita
+fin
+dan
+pol
+nor
+mlt
+rum
+slo
